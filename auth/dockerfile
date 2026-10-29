@@ -1,4 +1,5 @@
 FROM node:22-alpine
+# Node:22 is newer version
 
 WORKDIR /app
 
